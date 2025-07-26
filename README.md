@@ -5,6 +5,7 @@ Users can create accounts, deposit and withdraw funds, check balances, and remov
 # Features
 Account Management: Create, remove, and list user accounts.
 Transactions: Deposit and withdraw money from accounts.
+
 Balance Check: View the current balance of any account.
 Console UI: Simple interactive menu for all operations.
 
